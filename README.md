@@ -1,1 +1,1 @@
-# Ai---based-disaster-management-syastem
+# Ai---based-disaster-management-system
